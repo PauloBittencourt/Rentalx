@@ -1,12 +1,12 @@
 
 
-## NodeRest
+## Rentalx
 
 [![Author](https://img.shields.io/badge/author-PauloBittencourt-8257E5?style=flat-square)](https://github.com/paulobittencourt)
 
 
 <h4 align="center">
-  NodeRest is an API for car rental.
+  Rentalx is an API for car rental.
 </h4>
 
 
@@ -30,7 +30,7 @@ This project was developed using cutting edge back-end technologies.
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/PauloBittencourt/FinAPI.git && cd FinAPI
+$ git clone https://github.com/PauloBittencourt/Rentalxt && cd Rentalx
 ```
 
 **Follow the steps below**
